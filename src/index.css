@@ -135,6 +135,8 @@ div {
   white-space: nowrap;
   padding-top: 20px;
   height: auto;
+  display: flex;
+  flex-direction: row;
 }
 
 .circle-scroll {
