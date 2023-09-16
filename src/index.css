@@ -183,7 +183,9 @@ div {
 .active-dot {
   background-color: #007bff;
 }
-
+.custom-icon-size {
+  font-size: 0.5rem; /* Adjust the size as needed */
+}
 @media (max-width: 568px) {
   .Product1 {
     padding: 10px;
