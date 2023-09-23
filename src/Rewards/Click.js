@@ -3,7 +3,7 @@ import React from "react";
 const Click = () => {
   return (
     <div className="bg-gray-400 rounded-[30px] my-4 mx-6 flex flex-row justify-between py-2 pl-2 ">
-      <div className="w-[200px] pl-1">
+      <div className="w-[200px] pl-1.5">
         <span className="text-sm">
           Invite your friends who are not on Smytten everyday
         </span>
